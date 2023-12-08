@@ -1,5 +1,6 @@
 import PyPDF2
 import os
+from tkinter import Tk
 
 def merge_pdfs(output_path, pdf_files):
     """
